@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Luxury Travel"
+version = "1.0.0"
+id = "artifacts/luxury-travel"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21467
+
+[services.development]
+run = "pnpm --filter @workspace/luxury-travel run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/luxury-travel", "run", "build" ]
+publicDir = "artifacts/luxury-travel/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21467"
+BASE_PATH = "/"

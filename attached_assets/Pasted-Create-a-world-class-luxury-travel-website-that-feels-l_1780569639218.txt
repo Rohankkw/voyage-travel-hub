@@ -1,0 +1,280 @@
+Create a world-class luxury travel website that feels like an interactive digital experience rather than a traditional travel agency website. The design must feel premium, cinematic, immersive, and emotionally engaging. Avoid the typical AI-generated SaaS appearance, neon gradients, excessive cards, dashboard layouts, boxed sections, or generic templates. Every section should flow naturally into the next through motion, depth, storytelling, and visual transitions.
+
+The website should be designed around the concept of "Journey Through the World" where the user feels like they are traveling while scrolling.
+
+VISUAL DIRECTION
+
+Use a sophisticated luxury travel aesthetic with deep ocean blues, warm sunset tones, snowy mountain whites, tropical turquoise waters, rich earth colors, and cinematic atmospheric lighting.
+
+The design should feel inspired by:
+
+* Luxury travel magazines
+* National Geographic cinematography
+* High-end tourism campaigns
+* Modern interactive storytelling websites
+* Premium resort and adventure brands
+
+Avoid:
+
+* Neon colors
+* Pink/purple AI gradients
+* Generic glass cards everywhere
+* Excessive borders
+* Overuse of buttons
+* Corporate SaaS layouts
+
+The interface should feel fluid, organic, and spacious with large breathing room between content.
+
+HERO EXPERIENCE
+
+The homepage begins with a full-screen cinematic scene.
+
+Instead of a static hero image, create a massive 3D environment featuring:
+
+* Mountain ranges
+* Clouds moving through valleys
+* Flying birds
+* Distant waterfalls
+* Dynamic sunlight
+* Atmospheric fog
+
+The user initially sees only a breathtaking world landscape.
+
+As the user moves their cursor:
+
+* Depth layers react subtly
+* Foreground and background move independently
+* Clouds shift naturally
+* Light rays move slightly
+
+A large bold statement emerges naturally from the environment:
+
+"THE WORLD IS WAITING"
+
+The typography should feel monumental, elegant, and integrated into the scenery rather than sitting on top of it.
+
+Scrolling should feel like entering the landscape.
+
+SCROLL EXPERIENCE
+
+The entire website should function as a continuous storytelling journey.
+
+Every scroll movement should feel smooth and cinematic.
+
+Avoid traditional section jumps.
+
+Instead:
+
+The camera appears to move through different travel environments:
+
+1. Mountains
+2. Tropical Islands
+3. Desert Landscapes
+4. Historic Cities
+5. Luxury Resorts
+6. Adventure Destinations
+
+Each environment transitions naturally into the next.
+
+The user should feel like they are flying across the world.
+
+3D WORLD ELEMENT
+
+A highly detailed floating globe appears during scrolling.
+
+The globe should:
+
+* Rotate slowly
+* React to cursor movement
+* Shift position throughout the page
+* Reveal different continents
+* Display animated travel routes
+* Show destination markers
+
+The globe should never feel static.
+
+It acts as the storytelling centerpiece of the website.
+
+PARALLAX DEPTH SYSTEM
+
+Create multiple depth layers:
+
+Foreground:
+
+* Plants
+* Rocks
+* Sand
+* Water splashes
+* Clouds
+
+Midground:
+
+* Travelers
+* Buildings
+* Vehicles
+* Boats
+
+Background:
+
+* Mountains
+* Oceans
+* Cities
+* Sky
+
+Each layer moves at different speeds while scrolling.
+
+This should create an authentic sense of depth and exploration.
+
+DESTINATIONS EXPERIENCE
+
+Instead of standard cards, destinations emerge from the environment.
+
+As the user scrolls:
+
+Massive destination showcases appear.
+
+Each destination should occupy most of the screen.
+
+Examples:
+
+Swiss Alps
+Maldives
+Santorini
+Dubai
+Kyoto
+Bali
+Iceland
+
+Each destination includes:
+
+* Cinematic imagery
+* Floating location details
+* Smooth entrance animations
+* Travel highlights
+* Dynamic statistics
+* Hover interactions
+
+Content should feel embedded into the scene rather than placed inside boxes.
+
+DISCOVERY SECTION
+
+Create a "Discover Extraordinary Places" experience.
+
+As the user scrolls horizontally through this section:
+
+Large destinations slide into view.
+
+Images should overlap elegantly.
+
+Motion should feel premium and weighty.
+
+The transitions should resemble a luxury travel documentary.
+
+ADVENTURE EXPERIENCE
+
+Introduce immersive 3D travel elements:
+
+* Hot air balloons
+* Airplanes
+* Sailboats
+* Helicopters
+* Wildlife
+* Mountain climbers
+
+These elements should move subtly through the page.
+
+Their motion should create life without becoming distracting.
+
+TRAVEL TIMELINE
+
+Create a visual travel route experience.
+
+The user follows a journey path through the page.
+
+The route animates while scrolling.
+
+Pins appear on the path showing:
+
+* Destinations
+* Experiences
+* Popular routes
+* Hidden gems
+
+This section should feel like following a real expedition map.
+
+LUXURY EXPERIENCE SECTION
+
+Introduce premium travel experiences.
+
+The environment transforms into:
+
+* Luxury resorts
+* Infinity pools
+* Ocean villas
+* Mountain lodges
+* Private islands
+
+Use elegant motion and cinematic transitions.
+
+Everything should feel aspirational.
+
+TESTIMONIAL EXPERIENCE
+
+Instead of testimonial cards:
+
+Create floating traveler stories.
+
+Their stories appear naturally while scrolling.
+
+Portraits subtly animate.
+
+Background scenes continue moving behind them.
+
+The experience should feel human and emotional.
+
+FINAL CTA EXPERIENCE
+
+The final section should be unforgettable.
+
+The user arrives at a stunning world view from space.
+
+The entire globe becomes visible.
+
+Travel routes illuminate across continents.
+
+Stars slowly move.
+
+The message appears:
+
+"YOUR NEXT ADVENTURE BEGINS HERE"
+
+Below it:
+
+A single premium booking call-to-action.
+
+The ending should feel emotional, inspiring, and memorable.
+
+MOTION SYSTEM
+
+All animations must feel:
+
+* Smooth
+* Natural
+* Premium
+* Weight-based
+* Cinematic
+
+Avoid:
+
+* Bouncy animations
+* Cheap fades
+* Generic slide-ups
+* Repetitive effects
+
+Every movement should have purpose.
+
+OVERALL FEELING
+
+The website should feel like a luxury interactive travel documentary, combining cinematic storytelling, immersive 3D environments, scroll-driven experiences, depth, exploration, and emotion.
+
+Visitors should leave feeling inspired to travel before they ever click a booking button.

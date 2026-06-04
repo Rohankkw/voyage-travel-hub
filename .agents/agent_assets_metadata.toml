@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "4XXnY27G_1CWbbjciGE0c"
+uri = "file://artifacts/luxury-travel/src/assets/alps.png"
+type = "image"
+title = "Swiss Alps mountain mist"
+
+[[generated]]
+id = "2TL5RTodXPakZB8podUjp"
+uri = "file://artifacts/luxury-travel/src/assets/maldives.png"
+type = "image"
+title = "Maldives overwater bungalows"
+
+[[generated]]
+id = "sWITF9L9lbnbUcbWYTgME"
+uri = "file://artifacts/luxury-travel/src/assets/santorini.png"
+type = "image"
+title = "Santorini sunset churches"
+
+[[generated]]
+id = "scxspiE9CuQ4QOA92uwcw"
+uri = "file://artifacts/luxury-travel/src/assets/dubai.png"
+type = "image"
+title = "Dubai desert dunes dusk"
+
+[[generated]]
+id = "P2RNyjUEWsis0TDmqQp93"
+uri = "file://artifacts/luxury-travel/src/assets/kyoto.png"
+type = "image"
+title = "Kyoto bamboo forest mist"
+
+[[generated]]
+id = "LCSUufjcFjGEuxcq3HMo-"
+uri = "file://artifacts/luxury-travel/src/assets/bali.png"
+type = "image"
+title = "Bali rice terraces emerald"
+
+[[generated]]
+id = "2QsQYPyNwQ5qaWAw0B3nZ"
+uri = "file://artifacts/luxury-travel/src/assets/iceland.png"
+type = "image"
+title = "Iceland northern lights volcano"
+
+[[generated]]
+id = "d1ZiXt_hO9Rs-KRe1jSPX"
+uri = "file://artifacts/luxury-travel/src/assets/hero-bg.png"
+type = "image"
+title = "Epic mountain landscape hero"
+
+[[generated]]
+id = "9yKud4FlHQEba6spbUFIb"
+uri = "file://artifacts/luxury-travel/src/assets/exp-villa.png"
+type = "image"
+title = "Maldives infinity pool villa"
+
+[[generated]]
+id = "PsIlX9bLuV8Qa2VSQ7D4L"
+uri = "file://artifacts/luxury-travel/src/assets/exp-lodge.png"
+type = "image"
+title = "Snowy mountain lodge fire"
