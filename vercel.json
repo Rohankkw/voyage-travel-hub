@@ -1,0 +1,4 @@
+{
+  "buildCommand": "pnpm --filter @workspace/luxury-travel run build",
+  "outputDirectory": "artifacts/luxury-travel/dist/public"
+}
